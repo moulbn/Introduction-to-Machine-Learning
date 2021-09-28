@@ -1,4 +1,5 @@
-
+# ignore all .txt files
+*.txt
 
 # ignore all urls
 *.url
