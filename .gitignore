@@ -5,4 +5,4 @@
 *.url
 
 # ignore ipynb checkpoints
-*.ipynb*
+*.ipynb_*
