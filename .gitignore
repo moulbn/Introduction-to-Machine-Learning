@@ -6,3 +6,6 @@
 
 # ignore ipynb checkpoints
 *.ipynb_*
+
+# ignore zips
+*.zip
