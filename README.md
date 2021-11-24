@@ -3,7 +3,7 @@
 This is a first.
 
 
-Initiation to multiple Machine Learning models:
+Initiation to multiple Machine Learning models on a credit card subscription dataset:
  - Logistic Regression (Lasso/Ridge)
  - Discriminant Analysis
  - K-Nearest Neighbours
